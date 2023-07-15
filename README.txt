@@ -1,13 +1,11 @@
 
 TITLE: 
-Luxe - 100% Fully Responsive Free HTML5 template
+Luxe - 100% Fully Responsive Free HTML5 
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by Shomrat Hasan
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+
 
 
 CREDITS:
